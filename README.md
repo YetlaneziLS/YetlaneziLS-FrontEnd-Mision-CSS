@@ -1,2 +1,2 @@
-# YetlaneziLS-FrontEnd-Mision-CSS
+# FrontEnd-Mision-CSS
 Actividad FrontEnd-Mision-CSS
